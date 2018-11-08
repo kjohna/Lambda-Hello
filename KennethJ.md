@@ -10,3 +10,5 @@ My favorite hobby (for now) is *cycling*.
 My favorite animal is *cat*. 
 
 Another personal favorite, suitable for **public** sharing, is *tasty food*. 
+
+This change added to "branch1"
